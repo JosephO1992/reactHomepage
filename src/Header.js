@@ -16,7 +16,7 @@ function Header() {
 			<h1 style={headerStyle}>Joe O'Reilly.com</h1>
 			<nav>
 				<a>Home</a>
-				<a>About</a>
+				<a>About Me</a>
 				<a>Projects</a>
 				<a>Get in touch!</a>
 			</nav>
